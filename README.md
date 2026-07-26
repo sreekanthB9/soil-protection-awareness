@@ -4,8 +4,8 @@ A premium, responsive Community Service Project (CSP) website built with Next.js
 
 ## Student Information
 
-- **Name:** K. Raghu Ram
-- **Register Number:** 24G31A3161
+- **Name:** k.venkata sreekanth
+- **Register Number:** 24G31A3157
 - **College:** St. Johns College of Engineering and Technology
 - **Academic Year:** 2025-26
 - **Location:** Yemmiganur, Andhra Pradesh, India
