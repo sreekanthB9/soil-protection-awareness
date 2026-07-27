@@ -1,6 +1,6 @@
 export const STUDENT_INFO = {
-  name: "K. Raghu Ram",
-  registerNumber: "24G31A3161",
+  name: "K. Venkata Sreekanth",
+  registerNumber: "24G31A3157",
   college: "St. Johns College of Engineering and Technology",
   academicYear: "2025-26",
   location: "Yemmiganur, Andhra Pradesh, India",
